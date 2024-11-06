@@ -2,7 +2,7 @@ import cmath
 import math
 class Point:
     def __init__(self,x,y=None):
-        if isinstance(seelf, x, Point):
+        if isinstance(self, x, Point):
 
           self.x=x.x
           self.y=y.y
